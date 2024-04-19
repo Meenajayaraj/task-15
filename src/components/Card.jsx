@@ -8,36 +8,36 @@ function Card({ cardData, setCartValue }) {
     <div className="card m-2">
       {/* Card img */}
       {cardData.img1 && (
-        <img src="./image" className="card-img-top" alt="Product" />
+        <img src="./image/bangles.jpg" className="card-img-top" alt="Product" />
       )}
       {cardData.img2 && (
-        <img src="/image/tomato2.png" className="card-img-top" alt="Product" />
+        <img src="/image/bracelet.jpg" className="card-img-top" alt="Product" />
       )}
       {cardData.img3 && (
         <img
-          src="/image/red-meat1.png"
+          src="/image/earings.jpg"
           className="card-img-top"
           alt="Product"
         />
       )}
       {cardData.img4 && (
-        <img src="/image/orange1.png" className="card-img-top" alt="Product" />
+        <img src="/image/kammal.jpg" className="card-img-top" alt="Product" />
       )}
       {cardData.img5 && (
-        <img src="/image/fish1.png" className="card-img-top" alt="Product" />
+        <img src="/image/haaram.jpg" className="card-img-top" alt="Product" />
       )}
       {cardData.img6 && (
         <img
-          src="/image/pomegranate1.png"
+          src="/image/long chain.jpg"
           className="card-img-top"
           alt="Product"
         />
       )}
       {cardData.img7 && (
-        <img src="/image/cabbage1.png" className="card-img-top" alt="Product" />
+        <img src="/image/lakshmi chain.jpg" className="card-img-top" alt="Product" />
       )}
       {cardData.img8 && (
-        <img src="/image/grapes1.png" className="card-img-top" alt="Product" />
+        <img src="/image/necklace.jpg" className="card-img-top" alt="Product" />
       )}
       {cardData.isSale && (
         <div
@@ -105,31 +105,31 @@ function Card({ cardData, setCartValue }) {
 function CardGrid({ setCartValue }) {
   const cardData = [
     {
-      name: "Green peas",
+      name: "Bangles",
       rating: "⭐⭐⭐⭐⭐",
-      price: "₹250-₹300",
+      price: "₹400",
       img1: true,
     },
     {
-      name: "Tomato",
+      name: "Bracelet",
       rating: "⭐⭐⭐⭐⭐",
-      originalPrice: "₹130",
-      price: "₹70",
+      originalPrice: "₹330",
+      price: "₹170",
       isSale: true,
       img2: true,
     },
     {
-      name: "Meat",
+      name: "Earings",
       rating: "⭐⭐⭐⭐⭐",
-      price: "₹899",
+      price: "₹499",
       isSpecial: true,
       img3: true,
     },
-    { name: "Orange", rating: "⭐⭐⭐⭐⭐", price: "₹40-₹80", img4: true },
+    { name: "Jimmiki Kammal", rating: "⭐⭐⭐⭐⭐", price: "₹200-₹300", img4: true },
     {
-      name: "Fish",
+      name: "Haaram",
       rating: "⭐⭐⭐⭐⭐",
-      price: "₹349-₹599",
+      price: "₹549-₹699",
       isSpecial: true,
       img5: true,
     },
