@@ -134,20 +134,20 @@ function CardGrid({ setCartValue }) {
       img5: true,
     },
     {
-      name: "Pomegranate",
+      name: "Beads necklace",
       rating: "⭐⭐⭐⭐⭐",
       price: "₹150-₹180",
       img6: true,
     },
     {
-      name: "Cabbage",
+      name: "Lakshmi chain",
       rating: "⭐⭐⭐⭐⭐",
       originalPrice: "₹45",
       price: "₹20",
       isSale: true,
       img7: true,
     },
-    { name: "Grapes", rating: "⭐⭐⭐⭐⭐", price: "₹55", img8: true },
+    { name: "fancy chain", rating: "⭐⭐⭐⭐⭐", price: "₹55", img8: true },
   ];
 
   return (
