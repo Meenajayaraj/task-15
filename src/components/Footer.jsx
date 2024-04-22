@@ -20,7 +20,7 @@ function Footer() {
           >
             <img
               className="text-center"
-              src="/image/logoblack.png"
+              src="/image/logo.png"
               alt="logo"
               style={{ width: "100px" }}
             />
