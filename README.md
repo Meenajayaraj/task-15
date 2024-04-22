@@ -47,3 +47,13 @@
 ###
 
 🔸*Click the link Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
+
+### Output Images
+
+![image_2024-04-22_104858522](https://github.com/Meenajayaraj/task-15/assets/154115927/84b3a743-a840-41dd-a38d-102664251ade)
+
+
+![Screenshot 2024-04-22 104843](https://github.com/Meenajayaraj/task-15/assets/154115927/6d2e5414-8706-49b3-8732-a1fa37beb4b4)
+
+
+
