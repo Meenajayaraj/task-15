@@ -46,7 +46,8 @@
 
 ###
 
-🔸*Click the link Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
+🔸*Click the link Here*👉🏻 [![Netlify](https://shoppingcart-task-15.netlify.app/)
+
 
 ### Output Images
 
