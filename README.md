@@ -46,7 +46,7 @@
 
 ###
 
-🔸*Click the link Here*👉🏻 [![Netlify](https://shoppingcart-task-15.netlify.app/)
+🔸*Click the link Here*👉🏻[Netlify](https://shoppingcart-task-15.netlify.app/)
 
 
 ### Output Images
