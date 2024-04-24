@@ -1,12 +1,6 @@
 # REACT TASK 2 SHOPPING CART
 
-**This Repository is created for React Task 2 : Shopping Cart**
-
-<h2 align="left">Project Description :</h2>
-
-###
-
-<p align="left">🔸 I created a Price card in React JS. <br>🔸 Used React components And Props. <br>🔸 Imported to GitHub using Git.<br>🔸 Deployed my web application in Netlify.</p>
+**This Repository is created for  Task 15 : Shopping Cart**
 
 ###
 
@@ -52,4 +46,15 @@
 
 ###
 
-🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
+🔸*Click the link Here*👉🏻[Netlify](https://shoppingcart-task-15.netlify.app/)
+
+
+### Output Images
+
+![Screenshot 2024-04-22 105144](https://github.com/Meenajayaraj/task-15/assets/154115927/f897d202-63e4-49c0-af95-b5e549208690)
+
+
+![Screenshot 2024-04-22 104843](https://github.com/Meenajayaraj/task-15/assets/154115927/6d2e5414-8706-49b3-8732-a1fa37beb4b4)
+
+
+
