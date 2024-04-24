@@ -105,7 +105,7 @@ function Card({ cardData, setCartValue }) {
 function CardGrid({ setCartValue }) {
   const cardData = [
     {
-      name: "Bangles",
+      name: "Bangle",
       rating: "⭐⭐⭐⭐⭐",
       price: "₹400",
       img1: true,
@@ -125,9 +125,9 @@ function CardGrid({ setCartValue }) {
       isSpecial: true,
       img3: true,
     },
-    { name: "Jimmiki Kammal", rating: "⭐⭐⭐⭐⭐", price: "₹200-₹300", img4: true },
+    { name: "Earings", rating: "⭐⭐⭐⭐⭐", price: "₹200-₹300", img4: true },
     {
-      name: "Haaram",
+      name: "Neck set",
       rating: "⭐⭐⭐⭐⭐",
       price: "₹549-₹699",
       isSpecial: true,
@@ -140,7 +140,7 @@ function CardGrid({ setCartValue }) {
       img6: true,
     },
     {
-      name: "Lakshmi chain",
+      name: "Long chain",
       rating: "⭐⭐⭐⭐⭐",
       originalPrice: "₹45",
       price: "₹20",
