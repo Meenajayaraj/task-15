@@ -129,7 +129,7 @@ function CardGrid({ setCartValue }) {
     {
       name: "Neck set",
       rating: "⭐⭐⭐⭐⭐",
-      price: "₹549-₹699",
+      price: "₹549-₹799",
       isSpecial: true,
       img5: true,
     },
